@@ -1,2 +1,2 @@
 # Latex-Extensions
-Some LaTeX classes, plugins etc I have made, with examples
+Some LaTeX classes, packages etc I have made, with examples
